@@ -33,8 +33,8 @@ import io.agora.rtc.RtcEngine
 import io.agora.rtc.video.VideoCanvas
 import kotlinx.coroutines.runBlocking
 
-private const val APP_ID = "fde109e4b55b426c95d54b2cc809179e"
-private const val TOKEN = "007eJxTYNhmc3VaOFO/QtMH1jT7+4Ktv3eFBn/+YHj12wdXtQ3BciwKDCZmpuapSamppkbJBiZmqRZJicYmScaJyWnmaSbJiUaJN1/XpDcEMjIcP8jKwsgAgSA+O0NwZnpeZlolAwMA8YgiLA=="
+private const val APP_ID = "APP_ID"
+private const val TOKEN = "TOKEN"
 private const val TAG = "InteractiveVideoCall"
 private val PERMISSIONS = arrayOf(Manifest.permission.RECORD_AUDIO, Manifest.permission.CAMERA)
 
